@@ -1,0 +1,147 @@
+img{
+    max-width: 100%;
+}
+.navbar-img img{   
+width: 70px;
+}
+.navbar-menu{
+    text-align: right;
+    margin-left: 89px;
+    /*! position: relative; */
+    left: 272px;
+}
+.navbar-menu li{
+    padding: 0px 7px;   
+    font-size: 18px;
+}
+
+.banner-slider {
+    background-color: #f9f9ff;                   
+}
+    
+    
+
+
+.banner-text{
+
+    margin-top: 89px;
+}
+.banner-text h5{    
+
+    margin-bottom: 20px;    
+    font-size: 22px;
+}
+.banner-text h1{
+
+    margin-bottom: 13px;
+}
+.banner-text p{
+
+    margin-top: 29px;   
+    font-size: 16px;
+}
+.banner-img img{
+
+    width: 375px;
+}
+.picture-img img{
+    width: 400px;
+}
+.card-1 {
+    background-color:#f9f9ff;
+}
+.ron{
+    background-color: #f9f9ff;     
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: auto;
+}
+.ron h4{
+    font-size: 27px;
+    line-height: 94px;    
+}
+.nnn{
+    border: none;     
+}
+.nnn li{
+    border: none;
+    font-size: 19px;
+    margin-bottom: 26px;     
+    margin-left: 14px;
+}
+.bbbb{
+    width: 139px;
+    margin: auto;
+    margin-top: 20px;        
+    height: 51px;
+    line-height: 2px;          
+    
+    font-size: 21px;
+    font-weight: 600;
+}
+.pic img{
+    width: 80px;
+    height: 80px;
+    margin-top: -58px;    
+}
+.about-item{
+    margin-top: 76px;     
+}
+.tag input{
+    margin-bottom: 44px;
+}
+.one{
+    margin-bottom: 58px;
+}
+.form-2{
+    background-color: #f9f9ff;
+}
+.bbb{
+    background-color: #fff;
+}
+.contact{
+
+    margin-top: 87px;
+    margin-left: 38px;
+}
+.contact h3{
+
+    font-size: 21px;
+    font-weight: 700;   
+}
+.contact h5{
+    
+    font-size: 18px;    
+}
+.form-text h5{
+
+}
+.form-text h1{
+    
+    margin-bottom: 68px;
+    color: black;
+}
+.xy{
+    height: 200px;
+
+}
+.foo{
+    text-align: center;
+    background-color: #000;
+    color:#fff;
+}
+.number-itme{
+    color: #fafafa;   
+}
+
+.number-itme h2{
+  font-size: 43px;
+  font-weight: 700;    
+}
+.number-itme p{
+    color: #fafafa;
+}
+.card-text p{
+    margin-bottom: 62px;
+}
